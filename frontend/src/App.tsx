@@ -1,7 +1,9 @@
+import Login from "./components/Login";
+
 function App() {
   return (
     <div>
-      <h2 className="text-3xl">Hello tailwind!</h2>
+      <Login />
     </div>
   );
 }
